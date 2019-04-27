@@ -1,0 +1,21 @@
+body {
+  background-color: #F8F8F8;
+  margin: auto;
+  text-align: center;
+}
+
+/* .delete {
+  margin-right: 0;
+} */
+
+.li {
+  width: 413px;
+  display: grid;
+  grid-template-columns: 30px 280px 103px;
+}
+
+#toDoList {
+  margin: auto;
+  text-align: left;
+  width: 413px;
+}
